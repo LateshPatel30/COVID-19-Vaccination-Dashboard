@@ -1,5 +1,5 @@
 # 💉 COVID-19 Vaccination Dashboard
-
+🔗 **Live Demo:** [View on Streamlt](https://lateshpatel30-covid-19-vaccination-dashboard-app-h98vxm.streamlit.app/)
 An interactive data visualization dashboard to track and analyze COVID-19 vaccination progress across different regions of India using Python and Streamlit.
 
 ## 📊 Features
