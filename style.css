@@ -1,0 +1,22 @@
+/* Main background and text */
+body {
+    background-color: #111;
+    color: #fff;
+}
+
+.main-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #00e0ff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.metric-box {
+    background-color: #1c1c1c;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    font-size: 1.1em;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
